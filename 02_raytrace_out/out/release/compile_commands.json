@@ -1,0 +1,202 @@
+[
+{
+  "directory": "C:/Users/Edoar/Desktop/Università/Terzo Anno/Primo Semestre/Computer Graphics/02_raytrace_out/out/build/release",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\cl.exe  /nologo -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -D_UNICODE -I..\\..\\exts\\glfw\\include -I..\\..\\exts\\glfw\\src -Iexts\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MD /Zi /O2 /Ob1 /DNDEBUG /W3 /Foexts\\glfw\\src\\CMakeFiles\\glfw.dir\\context.c.obj /FdTARGET_COMPILE_PDB /FS -c \"C:\\Users\\Edoar\\Desktop\\Università\\Terzo Anno\\Primo Semestre\\Computer Graphics\\02_raytrace_out\\out\\exts\\glfw\\src\\context.c\"",
+  "file": "C:/Users/Edoar/Desktop/Università/Terzo Anno/Primo Semestre/Computer Graphics/02_raytrace_out/out/exts/glfw/src/context.c"
+},
+{
+  "directory": "C:/Users/Edoar/Desktop/Università/Terzo Anno/Primo Semestre/Computer Graphics/02_raytrace_out/out/build/release",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\cl.exe  /nologo -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -D_UNICODE -I..\\..\\exts\\glfw\\include -I..\\..\\exts\\glfw\\src -Iexts\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MD /Zi /O2 /Ob1 /DNDEBUG /W3 /Foexts\\glfw\\src\\CMakeFiles\\glfw.dir\\init.c.obj /FdTARGET_COMPILE_PDB /FS -c \"C:\\Users\\Edoar\\Desktop\\Università\\Terzo Anno\\Primo Semestre\\Computer Graphics\\02_raytrace_out\\out\\exts\\glfw\\src\\init.c\"",
+  "file": "C:/Users/Edoar/Desktop/Università/Terzo Anno/Primo Semestre/Computer Graphics/02_raytrace_out/out/exts/glfw/src/init.c"
+},
+{
+  "directory": "C:/Users/Edoar/Desktop/Università/Terzo Anno/Primo Semestre/Computer Graphics/02_raytrace_out/out/build/release",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\cl.exe  /nologo -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -D_UNICODE -I..\\..\\exts\\glfw\\include -I..\\..\\exts\\glfw\\src -Iexts\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MD /Zi /O2 /Ob1 /DNDEBUG /W3 /Foexts\\glfw\\src\\CMakeFiles\\glfw.dir\\input.c.obj /FdTARGET_COMPILE_PDB /FS -c \"C:\\Users\\Edoar\\Desktop\\Università\\Terzo Anno\\Primo Semestre\\Computer Graphics\\02_raytrace_out\\out\\exts\\glfw\\src\\input.c\"",
+  "file": "C:/Users/Edoar/Desktop/Università/Terzo Anno/Primo Semestre/Computer Graphics/02_raytrace_out/out/exts/glfw/src/input.c"
+},
+{
+  "directory": "C:/Users/Edoar/Desktop/Università/Terzo Anno/Primo Semestre/Computer Graphics/02_raytrace_out/out/build/release",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\cl.exe  /nologo -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -D_UNICODE -I..\\..\\exts\\glfw\\include -I..\\..\\exts\\glfw\\src -Iexts\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MD /Zi /O2 /Ob1 /DNDEBUG /W3 /Foexts\\glfw\\src\\CMakeFiles\\glfw.dir\\monitor.c.obj /FdTARGET_COMPILE_PDB /FS -c \"C:\\Users\\Edoar\\Desktop\\Università\\Terzo Anno\\Primo Semestre\\Computer Graphics\\02_raytrace_out\\out\\exts\\glfw\\src\\monitor.c\"",
+  "file": "C:/Users/Edoar/Desktop/Università/Terzo Anno/Primo Semestre/Computer Graphics/02_raytrace_out/out/exts/glfw/src/monitor.c"
+},
+{
+  "directory": "C:/Users/Edoar/Desktop/Università/Terzo Anno/Primo Semestre/Computer Graphics/02_raytrace_out/out/build/release",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\cl.exe  /nologo -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -D_UNICODE -I..\\..\\exts\\glfw\\include -I..\\..\\exts\\glfw\\src -Iexts\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MD /Zi /O2 /Ob1 /DNDEBUG /W3 /Foexts\\glfw\\src\\CMakeFiles\\glfw.dir\\vulkan.c.obj /FdTARGET_COMPILE_PDB /FS -c \"C:\\Users\\Edoar\\Desktop\\Università\\Terzo Anno\\Primo Semestre\\Computer Graphics\\02_raytrace_out\\out\\exts\\glfw\\src\\vulkan.c\"",
+  "file": "C:/Users/Edoar/Desktop/Università/Terzo Anno/Primo Semestre/Computer Graphics/02_raytrace_out/out/exts/glfw/src/vulkan.c"
+},
+{
+  "directory": "C:/Users/Edoar/Desktop/Università/Terzo Anno/Primo Semestre/Computer Graphics/02_raytrace_out/out/build/release",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\cl.exe  /nologo -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -D_UNICODE -I..\\..\\exts\\glfw\\include -I..\\..\\exts\\glfw\\src -Iexts\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MD /Zi /O2 /Ob1 /DNDEBUG /W3 /Foexts\\glfw\\src\\CMakeFiles\\glfw.dir\\window.c.obj /FdTARGET_COMPILE_PDB /FS -c \"C:\\Users\\Edoar\\Desktop\\Università\\Terzo Anno\\Primo Semestre\\Computer Graphics\\02_raytrace_out\\out\\exts\\glfw\\src\\window.c\"",
+  "file": "C:/Users/Edoar/Desktop/Università/Terzo Anno/Primo Semestre/Computer Graphics/02_raytrace_out/out/exts/glfw/src/window.c"
+},
+{
+  "directory": "C:/Users/Edoar/Desktop/Università/Terzo Anno/Primo Semestre/Computer Graphics/02_raytrace_out/out/build/release",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\cl.exe  /nologo -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -D_UNICODE -I..\\..\\exts\\glfw\\include -I..\\..\\exts\\glfw\\src -Iexts\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MD /Zi /O2 /Ob1 /DNDEBUG /W3 /Foexts\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_init.c.obj /FdTARGET_COMPILE_PDB /FS -c \"C:\\Users\\Edoar\\Desktop\\Università\\Terzo Anno\\Primo Semestre\\Computer Graphics\\02_raytrace_out\\out\\exts\\glfw\\src\\win32_init.c\"",
+  "file": "C:/Users/Edoar/Desktop/Università/Terzo Anno/Primo Semestre/Computer Graphics/02_raytrace_out/out/exts/glfw/src/win32_init.c"
+},
+{
+  "directory": "C:/Users/Edoar/Desktop/Università/Terzo Anno/Primo Semestre/Computer Graphics/02_raytrace_out/out/build/release",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\cl.exe  /nologo -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -D_UNICODE -I..\\..\\exts\\glfw\\include -I..\\..\\exts\\glfw\\src -Iexts\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MD /Zi /O2 /Ob1 /DNDEBUG /W3 /Foexts\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_joystick.c.obj /FdTARGET_COMPILE_PDB /FS -c \"C:\\Users\\Edoar\\Desktop\\Università\\Terzo Anno\\Primo Semestre\\Computer Graphics\\02_raytrace_out\\out\\exts\\glfw\\src\\win32_joystick.c\"",
+  "file": "C:/Users/Edoar/Desktop/Università/Terzo Anno/Primo Semestre/Computer Graphics/02_raytrace_out/out/exts/glfw/src/win32_joystick.c"
+},
+{
+  "directory": "C:/Users/Edoar/Desktop/Università/Terzo Anno/Primo Semestre/Computer Graphics/02_raytrace_out/out/build/release",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\cl.exe  /nologo -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -D_UNICODE -I..\\..\\exts\\glfw\\include -I..\\..\\exts\\glfw\\src -Iexts\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MD /Zi /O2 /Ob1 /DNDEBUG /W3 /Foexts\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_monitor.c.obj /FdTARGET_COMPILE_PDB /FS -c \"C:\\Users\\Edoar\\Desktop\\Università\\Terzo Anno\\Primo Semestre\\Computer Graphics\\02_raytrace_out\\out\\exts\\glfw\\src\\win32_monitor.c\"",
+  "file": "C:/Users/Edoar/Desktop/Università/Terzo Anno/Primo Semestre/Computer Graphics/02_raytrace_out/out/exts/glfw/src/win32_monitor.c"
+},
+{
+  "directory": "C:/Users/Edoar/Desktop/Università/Terzo Anno/Primo Semestre/Computer Graphics/02_raytrace_out/out/build/release",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\cl.exe  /nologo -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -D_UNICODE -I..\\..\\exts\\glfw\\include -I..\\..\\exts\\glfw\\src -Iexts\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MD /Zi /O2 /Ob1 /DNDEBUG /W3 /Foexts\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_time.c.obj /FdTARGET_COMPILE_PDB /FS -c \"C:\\Users\\Edoar\\Desktop\\Università\\Terzo Anno\\Primo Semestre\\Computer Graphics\\02_raytrace_out\\out\\exts\\glfw\\src\\win32_time.c\"",
+  "file": "C:/Users/Edoar/Desktop/Università/Terzo Anno/Primo Semestre/Computer Graphics/02_raytrace_out/out/exts/glfw/src/win32_time.c"
+},
+{
+  "directory": "C:/Users/Edoar/Desktop/Università/Terzo Anno/Primo Semestre/Computer Graphics/02_raytrace_out/out/build/release",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\cl.exe  /nologo -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -D_UNICODE -I..\\..\\exts\\glfw\\include -I..\\..\\exts\\glfw\\src -Iexts\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MD /Zi /O2 /Ob1 /DNDEBUG /W3 /Foexts\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_thread.c.obj /FdTARGET_COMPILE_PDB /FS -c \"C:\\Users\\Edoar\\Desktop\\Università\\Terzo Anno\\Primo Semestre\\Computer Graphics\\02_raytrace_out\\out\\exts\\glfw\\src\\win32_thread.c\"",
+  "file": "C:/Users/Edoar/Desktop/Università/Terzo Anno/Primo Semestre/Computer Graphics/02_raytrace_out/out/exts/glfw/src/win32_thread.c"
+},
+{
+  "directory": "C:/Users/Edoar/Desktop/Università/Terzo Anno/Primo Semestre/Computer Graphics/02_raytrace_out/out/build/release",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\cl.exe  /nologo -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -D_UNICODE -I..\\..\\exts\\glfw\\include -I..\\..\\exts\\glfw\\src -Iexts\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MD /Zi /O2 /Ob1 /DNDEBUG /W3 /Foexts\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_window.c.obj /FdTARGET_COMPILE_PDB /FS -c \"C:\\Users\\Edoar\\Desktop\\Università\\Terzo Anno\\Primo Semestre\\Computer Graphics\\02_raytrace_out\\out\\exts\\glfw\\src\\win32_window.c\"",
+  "file": "C:/Users/Edoar/Desktop/Università/Terzo Anno/Primo Semestre/Computer Graphics/02_raytrace_out/out/exts/glfw/src/win32_window.c"
+},
+{
+  "directory": "C:/Users/Edoar/Desktop/Università/Terzo Anno/Primo Semestre/Computer Graphics/02_raytrace_out/out/build/release",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\cl.exe  /nologo -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -D_UNICODE -I..\\..\\exts\\glfw\\include -I..\\..\\exts\\glfw\\src -Iexts\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MD /Zi /O2 /Ob1 /DNDEBUG /W3 /Foexts\\glfw\\src\\CMakeFiles\\glfw.dir\\wgl_context.c.obj /FdTARGET_COMPILE_PDB /FS -c \"C:\\Users\\Edoar\\Desktop\\Università\\Terzo Anno\\Primo Semestre\\Computer Graphics\\02_raytrace_out\\out\\exts\\glfw\\src\\wgl_context.c\"",
+  "file": "C:/Users/Edoar/Desktop/Università/Terzo Anno/Primo Semestre/Computer Graphics/02_raytrace_out/out/exts/glfw/src/wgl_context.c"
+},
+{
+  "directory": "C:/Users/Edoar/Desktop/Università/Terzo Anno/Primo Semestre/Computer Graphics/02_raytrace_out/out/build/release",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\cl.exe  /nologo -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -D_UNICODE -I..\\..\\exts\\glfw\\include -I..\\..\\exts\\glfw\\src -Iexts\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MD /Zi /O2 /Ob1 /DNDEBUG /W3 /Foexts\\glfw\\src\\CMakeFiles\\glfw.dir\\egl_context.c.obj /FdTARGET_COMPILE_PDB /FS -c \"C:\\Users\\Edoar\\Desktop\\Università\\Terzo Anno\\Primo Semestre\\Computer Graphics\\02_raytrace_out\\out\\exts\\glfw\\src\\egl_context.c\"",
+  "file": "C:/Users/Edoar/Desktop/Università/Terzo Anno/Primo Semestre/Computer Graphics/02_raytrace_out/out/exts/glfw/src/egl_context.c"
+},
+{
+  "directory": "C:/Users/Edoar/Desktop/Università/Terzo Anno/Primo Semestre/Computer Graphics/02_raytrace_out/out/build/release",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\cl.exe  /nologo -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -D_UNICODE -I..\\..\\exts\\glfw\\include -I..\\..\\exts\\glfw\\src -Iexts\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MD /Zi /O2 /Ob1 /DNDEBUG /W3 /Foexts\\glfw\\src\\CMakeFiles\\glfw.dir\\osmesa_context.c.obj /FdTARGET_COMPILE_PDB /FS -c \"C:\\Users\\Edoar\\Desktop\\Università\\Terzo Anno\\Primo Semestre\\Computer Graphics\\02_raytrace_out\\out\\exts\\glfw\\src\\osmesa_context.c\"",
+  "file": "C:/Users/Edoar/Desktop/Università/Terzo Anno/Primo Semestre/Computer Graphics/02_raytrace_out/out/exts/glfw/src/osmesa_context.c"
+},
+{
+  "directory": "C:/Users/Edoar/Desktop/Università/Terzo Anno/Primo Semestre/Computer Graphics/02_raytrace_out/out/build/release",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -I..\\..\\libs\\yocto\\ext /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /Zi /O2 /Ob1 /DNDEBUG /D_CRT_SECURE_NO_WARNINGS /EHsc -std:c++17 /Folibs\\yocto\\CMakeFiles\\yocto.dir\\yocto_modelio.cpp.obj /FdTARGET_COMPILE_PDB /FS -c \"C:\\Users\\Edoar\\Desktop\\Università\\Terzo Anno\\Primo Semestre\\Computer Graphics\\02_raytrace_out\\out\\libs\\yocto\\yocto_modelio.cpp\"",
+  "file": "C:/Users/Edoar/Desktop/Università/Terzo Anno/Primo Semestre/Computer Graphics/02_raytrace_out/out/libs/yocto/yocto_modelio.cpp"
+},
+{
+  "directory": "C:/Users/Edoar/Desktop/Università/Terzo Anno/Primo Semestre/Computer Graphics/02_raytrace_out/out/build/release",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -I..\\..\\libs\\yocto\\ext /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /Zi /O2 /Ob1 /DNDEBUG /D_CRT_SECURE_NO_WARNINGS /EHsc -std:c++17 /Folibs\\yocto\\CMakeFiles\\yocto.dir\\yocto_bvh.cpp.obj /FdTARGET_COMPILE_PDB /FS -c \"C:\\Users\\Edoar\\Desktop\\Università\\Terzo Anno\\Primo Semestre\\Computer Graphics\\02_raytrace_out\\out\\libs\\yocto\\yocto_bvh.cpp\"",
+  "file": "C:/Users/Edoar/Desktop/Università/Terzo Anno/Primo Semestre/Computer Graphics/02_raytrace_out/out/libs/yocto/yocto_bvh.cpp"
+},
+{
+  "directory": "C:/Users/Edoar/Desktop/Università/Terzo Anno/Primo Semestre/Computer Graphics/02_raytrace_out/out/build/release",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -I..\\..\\libs\\yocto\\ext /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /Zi /O2 /Ob1 /DNDEBUG /D_CRT_SECURE_NO_WARNINGS /EHsc -std:c++17 /Folibs\\yocto\\CMakeFiles\\yocto.dir\\yocto_shape.cpp.obj /FdTARGET_COMPILE_PDB /FS -c \"C:\\Users\\Edoar\\Desktop\\Università\\Terzo Anno\\Primo Semestre\\Computer Graphics\\02_raytrace_out\\out\\libs\\yocto\\yocto_shape.cpp\"",
+  "file": "C:/Users/Edoar/Desktop/Università/Terzo Anno/Primo Semestre/Computer Graphics/02_raytrace_out/out/libs/yocto/yocto_shape.cpp"
+},
+{
+  "directory": "C:/Users/Edoar/Desktop/Università/Terzo Anno/Primo Semestre/Computer Graphics/02_raytrace_out/out/build/release",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -I..\\..\\libs\\yocto\\ext /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /Zi /O2 /Ob1 /DNDEBUG /D_CRT_SECURE_NO_WARNINGS /EHsc -std:c++17 /Folibs\\yocto\\CMakeFiles\\yocto.dir\\yocto_mesh.cpp.obj /FdTARGET_COMPILE_PDB /FS -c \"C:\\Users\\Edoar\\Desktop\\Università\\Terzo Anno\\Primo Semestre\\Computer Graphics\\02_raytrace_out\\out\\libs\\yocto\\yocto_mesh.cpp\"",
+  "file": "C:/Users/Edoar/Desktop/Università/Terzo Anno/Primo Semestre/Computer Graphics/02_raytrace_out/out/libs/yocto/yocto_mesh.cpp"
+},
+{
+  "directory": "C:/Users/Edoar/Desktop/Università/Terzo Anno/Primo Semestre/Computer Graphics/02_raytrace_out/out/build/release",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -I..\\..\\libs\\yocto\\ext /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /Zi /O2 /Ob1 /DNDEBUG /D_CRT_SECURE_NO_WARNINGS /EHsc -std:c++17 /Folibs\\yocto\\CMakeFiles\\yocto.dir\\yocto_image.cpp.obj /FdTARGET_COMPILE_PDB /FS -c \"C:\\Users\\Edoar\\Desktop\\Università\\Terzo Anno\\Primo Semestre\\Computer Graphics\\02_raytrace_out\\out\\libs\\yocto\\yocto_image.cpp\"",
+  "file": "C:/Users/Edoar/Desktop/Università/Terzo Anno/Primo Semestre/Computer Graphics/02_raytrace_out/out/libs/yocto/yocto_image.cpp"
+},
+{
+  "directory": "C:/Users/Edoar/Desktop/Università/Terzo Anno/Primo Semestre/Computer Graphics/02_raytrace_out/out/build/release",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -I..\\..\\libs\\yocto\\ext /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /Zi /O2 /Ob1 /DNDEBUG /D_CRT_SECURE_NO_WARNINGS /EHsc -std:c++17 /Folibs\\yocto\\CMakeFiles\\yocto.dir\\yocto_scene.cpp.obj /FdTARGET_COMPILE_PDB /FS -c \"C:\\Users\\Edoar\\Desktop\\Università\\Terzo Anno\\Primo Semestre\\Computer Graphics\\02_raytrace_out\\out\\libs\\yocto\\yocto_scene.cpp\"",
+  "file": "C:/Users/Edoar/Desktop/Università/Terzo Anno/Primo Semestre/Computer Graphics/02_raytrace_out/out/libs/yocto/yocto_scene.cpp"
+},
+{
+  "directory": "C:/Users/Edoar/Desktop/Università/Terzo Anno/Primo Semestre/Computer Graphics/02_raytrace_out/out/build/release",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -I..\\..\\libs\\yocto\\ext /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /Zi /O2 /Ob1 /DNDEBUG /D_CRT_SECURE_NO_WARNINGS /EHsc -std:c++17 /Folibs\\yocto\\CMakeFiles\\yocto.dir\\yocto_trace.cpp.obj /FdTARGET_COMPILE_PDB /FS -c \"C:\\Users\\Edoar\\Desktop\\Università\\Terzo Anno\\Primo Semestre\\Computer Graphics\\02_raytrace_out\\out\\libs\\yocto\\yocto_trace.cpp\"",
+  "file": "C:/Users/Edoar/Desktop/Università/Terzo Anno/Primo Semestre/Computer Graphics/02_raytrace_out/out/libs/yocto/yocto_trace.cpp"
+},
+{
+  "directory": "C:/Users/Edoar/Desktop/Università/Terzo Anno/Primo Semestre/Computer Graphics/02_raytrace_out/out/build/release",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -I..\\..\\libs\\yocto\\ext /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /Zi /O2 /Ob1 /DNDEBUG /D_CRT_SECURE_NO_WARNINGS /EHsc -std:c++17 /Folibs\\yocto\\CMakeFiles\\yocto.dir\\yocto_sceneio.cpp.obj /FdTARGET_COMPILE_PDB /FS -c \"C:\\Users\\Edoar\\Desktop\\Università\\Terzo Anno\\Primo Semestre\\Computer Graphics\\02_raytrace_out\\out\\libs\\yocto\\yocto_sceneio.cpp\"",
+  "file": "C:/Users/Edoar/Desktop/Università/Terzo Anno/Primo Semestre/Computer Graphics/02_raytrace_out/out/libs/yocto/yocto_sceneio.cpp"
+},
+{
+  "directory": "C:/Users/Edoar/Desktop/Università/Terzo Anno/Primo Semestre/Computer Graphics/02_raytrace_out/out/build/release",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -I..\\..\\libs\\yocto\\ext /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /Zi /O2 /Ob1 /DNDEBUG /D_CRT_SECURE_NO_WARNINGS /EHsc -std:c++17 /Folibs\\yocto\\CMakeFiles\\yocto.dir\\yocto_cli.cpp.obj /FdTARGET_COMPILE_PDB /FS -c \"C:\\Users\\Edoar\\Desktop\\Università\\Terzo Anno\\Primo Semestre\\Computer Graphics\\02_raytrace_out\\out\\libs\\yocto\\yocto_cli.cpp\"",
+  "file": "C:/Users/Edoar/Desktop/Università/Terzo Anno/Primo Semestre/Computer Graphics/02_raytrace_out/out/libs/yocto/yocto_cli.cpp"
+},
+{
+  "directory": "C:/Users/Edoar/Desktop/Università/Terzo Anno/Primo Semestre/Computer Graphics/02_raytrace_out/out/build/release",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -I..\\..\\libs\\yocto\\ext /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /Zi /O2 /Ob1 /DNDEBUG /D_CRT_SECURE_NO_WARNINGS /EHsc -std:c++17 /Folibs\\yocto\\CMakeFiles\\yocto.dir\\ext\\stb_image.cpp.obj /FdTARGET_COMPILE_PDB /FS -c \"C:\\Users\\Edoar\\Desktop\\Università\\Terzo Anno\\Primo Semestre\\Computer Graphics\\02_raytrace_out\\out\\libs\\yocto\\ext\\stb_image.cpp\"",
+  "file": "C:/Users/Edoar/Desktop/Università/Terzo Anno/Primo Semestre/Computer Graphics/02_raytrace_out/out/libs/yocto/ext/stb_image.cpp"
+},
+{
+  "directory": "C:/Users/Edoar/Desktop/Università/Terzo Anno/Primo Semestre/Computer Graphics/02_raytrace_out/out/build/release",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -I..\\..\\libs\\yocto\\ext /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /Zi /O2 /Ob1 /DNDEBUG /D_CRT_SECURE_NO_WARNINGS /EHsc -std:c++17 /Folibs\\yocto\\CMakeFiles\\yocto.dir\\ext\\tinyexr.cpp.obj /FdTARGET_COMPILE_PDB /FS -c \"C:\\Users\\Edoar\\Desktop\\Università\\Terzo Anno\\Primo Semestre\\Computer Graphics\\02_raytrace_out\\out\\libs\\yocto\\ext\\tinyexr.cpp\"",
+  "file": "C:/Users/Edoar/Desktop/Università/Terzo Anno/Primo Semestre/Computer Graphics/02_raytrace_out/out/libs/yocto/ext/tinyexr.cpp"
+},
+{
+  "directory": "C:/Users/Edoar/Desktop/Università/Terzo Anno/Primo Semestre/Computer Graphics/02_raytrace_out/out/build/release",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -I..\\..\\libs /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /Zi /O2 /Ob1 /DNDEBUG /D_CRT_SECURE_NO_WARNINGS /EHsc -std:c++17 /Folibs\\yocto_raytrace\\CMakeFiles\\yocto_raytrace.dir\\yocto_raytrace.cpp.obj /FdTARGET_COMPILE_PDB /FS -c \"C:\\Users\\Edoar\\Desktop\\Università\\Terzo Anno\\Primo Semestre\\Computer Graphics\\02_raytrace_out\\out\\libs\\yocto_raytrace\\yocto_raytrace.cpp\"",
+  "file": "C:/Users/Edoar/Desktop/Università/Terzo Anno/Primo Semestre/Computer Graphics/02_raytrace_out/out/libs/yocto_raytrace/yocto_raytrace.cpp"
+},
+{
+  "directory": "C:/Users/Edoar/Desktop/Università/Terzo Anno/Primo Semestre/Computer Graphics/02_raytrace_out/out/build/release",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DYOCTO_OPENGL -I..\\..\\libs\\yocto_gui\\. -I..\\..\\libs\\yocto_gui\\.\\ext -I..\\..\\libs -I..\\..\\exts\\glfw\\include /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /Zi /O2 /Ob1 /DNDEBUG /D_CRT_SECURE_NO_WARNINGS /wd4018 /wd4244 /wd4305 /wd4800 /wd4267 /EHsc -std:c++17 /Folibs\\yocto_gui\\CMakeFiles\\yocto_gui.dir\\yocto_opengl.cpp.obj /FdTARGET_COMPILE_PDB /FS -c \"C:\\Users\\Edoar\\Desktop\\Università\\Terzo Anno\\Primo Semestre\\Computer Graphics\\02_raytrace_out\\out\\libs\\yocto_gui\\yocto_opengl.cpp\"",
+  "file": "C:/Users/Edoar/Desktop/Università/Terzo Anno/Primo Semestre/Computer Graphics/02_raytrace_out/out/libs/yocto_gui/yocto_opengl.cpp"
+},
+{
+  "directory": "C:/Users/Edoar/Desktop/Università/Terzo Anno/Primo Semestre/Computer Graphics/02_raytrace_out/out/build/release",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DYOCTO_OPENGL -I..\\..\\libs\\yocto_gui\\. -I..\\..\\libs\\yocto_gui\\.\\ext -I..\\..\\libs -I..\\..\\exts\\glfw\\include /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /Zi /O2 /Ob1 /DNDEBUG /D_CRT_SECURE_NO_WARNINGS /wd4018 /wd4244 /wd4305 /wd4800 /wd4267 /EHsc -std:c++17 /Folibs\\yocto_gui\\CMakeFiles\\yocto_gui.dir\\yocto_shade.cpp.obj /FdTARGET_COMPILE_PDB /FS -c \"C:\\Users\\Edoar\\Desktop\\Università\\Terzo Anno\\Primo Semestre\\Computer Graphics\\02_raytrace_out\\out\\libs\\yocto_gui\\yocto_shade.cpp\"",
+  "file": "C:/Users/Edoar/Desktop/Università/Terzo Anno/Primo Semestre/Computer Graphics/02_raytrace_out/out/libs/yocto_gui/yocto_shade.cpp"
+},
+{
+  "directory": "C:/Users/Edoar/Desktop/Università/Terzo Anno/Primo Semestre/Computer Graphics/02_raytrace_out/out/build/release",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DYOCTO_OPENGL -I..\\..\\libs\\yocto_gui\\. -I..\\..\\libs\\yocto_gui\\.\\ext -I..\\..\\libs -I..\\..\\exts\\glfw\\include /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /Zi /O2 /Ob1 /DNDEBUG /D_CRT_SECURE_NO_WARNINGS /wd4018 /wd4244 /wd4305 /wd4800 /wd4267 /EHsc -std:c++17 /Folibs\\yocto_gui\\CMakeFiles\\yocto_gui.dir\\yocto_imgui.cpp.obj /FdTARGET_COMPILE_PDB /FS -c \"C:\\Users\\Edoar\\Desktop\\Università\\Terzo Anno\\Primo Semestre\\Computer Graphics\\02_raytrace_out\\out\\libs\\yocto_gui\\yocto_imgui.cpp\"",
+  "file": "C:/Users/Edoar/Desktop/Università/Terzo Anno/Primo Semestre/Computer Graphics/02_raytrace_out/out/libs/yocto_gui/yocto_imgui.cpp"
+},
+{
+  "directory": "C:/Users/Edoar/Desktop/Università/Terzo Anno/Primo Semestre/Computer Graphics/02_raytrace_out/out/build/release",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DYOCTO_OPENGL -I..\\..\\libs\\yocto_gui\\. -I..\\..\\libs\\yocto_gui\\.\\ext -I..\\..\\libs -I..\\..\\exts\\glfw\\include /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /Zi /O2 /Ob1 /DNDEBUG /D_CRT_SECURE_NO_WARNINGS /wd4018 /wd4244 /wd4305 /wd4800 /wd4267 /EHsc -std:c++17 /Folibs\\yocto_gui\\CMakeFiles\\yocto_gui.dir\\yocto_glview.cpp.obj /FdTARGET_COMPILE_PDB /FS -c \"C:\\Users\\Edoar\\Desktop\\Università\\Terzo Anno\\Primo Semestre\\Computer Graphics\\02_raytrace_out\\out\\libs\\yocto_gui\\yocto_glview.cpp\"",
+  "file": "C:/Users/Edoar/Desktop/Università/Terzo Anno/Primo Semestre/Computer Graphics/02_raytrace_out/out/libs/yocto_gui/yocto_glview.cpp"
+},
+{
+  "directory": "C:/Users/Edoar/Desktop/Università/Terzo Anno/Primo Semestre/Computer Graphics/02_raytrace_out/out/build/release",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DYOCTO_OPENGL -I..\\..\\libs\\yocto_gui\\. -I..\\..\\libs\\yocto_gui\\.\\ext -I..\\..\\libs -I..\\..\\exts\\glfw\\include /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /Zi /O2 /Ob1 /DNDEBUG /D_CRT_SECURE_NO_WARNINGS /wd4018 /wd4244 /wd4305 /wd4800 /wd4267 /EHsc -std:c++17 /Folibs\\yocto_gui\\CMakeFiles\\yocto_gui.dir\\ext\\imgui\\imgui.cpp.obj /FdTARGET_COMPILE_PDB /FS -c \"C:\\Users\\Edoar\\Desktop\\Università\\Terzo Anno\\Primo Semestre\\Computer Graphics\\02_raytrace_out\\out\\libs\\yocto_gui\\ext\\imgui\\imgui.cpp\"",
+  "file": "C:/Users/Edoar/Desktop/Università/Terzo Anno/Primo Semestre/Computer Graphics/02_raytrace_out/out/libs/yocto_gui/ext/imgui/imgui.cpp"
+},
+{
+  "directory": "C:/Users/Edoar/Desktop/Università/Terzo Anno/Primo Semestre/Computer Graphics/02_raytrace_out/out/build/release",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DYOCTO_OPENGL -I..\\..\\libs\\yocto_gui\\. -I..\\..\\libs\\yocto_gui\\.\\ext -I..\\..\\libs -I..\\..\\exts\\glfw\\include /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /Zi /O2 /Ob1 /DNDEBUG /D_CRT_SECURE_NO_WARNINGS /wd4018 /wd4244 /wd4305 /wd4800 /wd4267 /EHsc -std:c++17 /Folibs\\yocto_gui\\CMakeFiles\\yocto_gui.dir\\ext\\imgui\\imgui_demo.cpp.obj /FdTARGET_COMPILE_PDB /FS -c \"C:\\Users\\Edoar\\Desktop\\Università\\Terzo Anno\\Primo Semestre\\Computer Graphics\\02_raytrace_out\\out\\libs\\yocto_gui\\ext\\imgui\\imgui_demo.cpp\"",
+  "file": "C:/Users/Edoar/Desktop/Università/Terzo Anno/Primo Semestre/Computer Graphics/02_raytrace_out/out/libs/yocto_gui/ext/imgui/imgui_demo.cpp"
+},
+{
+  "directory": "C:/Users/Edoar/Desktop/Università/Terzo Anno/Primo Semestre/Computer Graphics/02_raytrace_out/out/build/release",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DYOCTO_OPENGL -I..\\..\\libs\\yocto_gui\\. -I..\\..\\libs\\yocto_gui\\.\\ext -I..\\..\\libs -I..\\..\\exts\\glfw\\include /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /Zi /O2 /Ob1 /DNDEBUG /D_CRT_SECURE_NO_WARNINGS /wd4018 /wd4244 /wd4305 /wd4800 /wd4267 /EHsc -std:c++17 /Folibs\\yocto_gui\\CMakeFiles\\yocto_gui.dir\\ext\\imgui\\imgui_draw.cpp.obj /FdTARGET_COMPILE_PDB /FS -c \"C:\\Users\\Edoar\\Desktop\\Università\\Terzo Anno\\Primo Semestre\\Computer Graphics\\02_raytrace_out\\out\\libs\\yocto_gui\\ext\\imgui\\imgui_draw.cpp\"",
+  "file": "C:/Users/Edoar/Desktop/Università/Terzo Anno/Primo Semestre/Computer Graphics/02_raytrace_out/out/libs/yocto_gui/ext/imgui/imgui_draw.cpp"
+},
+{
+  "directory": "C:/Users/Edoar/Desktop/Università/Terzo Anno/Primo Semestre/Computer Graphics/02_raytrace_out/out/build/release",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DYOCTO_OPENGL -I..\\..\\libs\\yocto_gui\\. -I..\\..\\libs\\yocto_gui\\.\\ext -I..\\..\\libs -I..\\..\\exts\\glfw\\include /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /Zi /O2 /Ob1 /DNDEBUG /D_CRT_SECURE_NO_WARNINGS /wd4018 /wd4244 /wd4305 /wd4800 /wd4267 /EHsc -std:c++17 /Folibs\\yocto_gui\\CMakeFiles\\yocto_gui.dir\\ext\\imgui\\imgui_widgets.cpp.obj /FdTARGET_COMPILE_PDB /FS -c \"C:\\Users\\Edoar\\Desktop\\Università\\Terzo Anno\\Primo Semestre\\Computer Graphics\\02_raytrace_out\\out\\libs\\yocto_gui\\ext\\imgui\\imgui_widgets.cpp\"",
+  "file": "C:/Users/Edoar/Desktop/Università/Terzo Anno/Primo Semestre/Computer Graphics/02_raytrace_out/out/libs/yocto_gui/ext/imgui/imgui_widgets.cpp"
+},
+{
+  "directory": "C:/Users/Edoar/Desktop/Università/Terzo Anno/Primo Semestre/Computer Graphics/02_raytrace_out/out/build/release",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DYOCTO_OPENGL -I..\\..\\libs\\yocto_gui\\. -I..\\..\\libs\\yocto_gui\\.\\ext -I..\\..\\libs -I..\\..\\exts\\glfw\\include /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /Zi /O2 /Ob1 /DNDEBUG /D_CRT_SECURE_NO_WARNINGS /wd4018 /wd4244 /wd4305 /wd4800 /wd4267 /EHsc -std:c++17 /Folibs\\yocto_gui\\CMakeFiles\\yocto_gui.dir\\ext\\imgui\\imgui_tables.cpp.obj /FdTARGET_COMPILE_PDB /FS -c \"C:\\Users\\Edoar\\Desktop\\Università\\Terzo Anno\\Primo Semestre\\Computer Graphics\\02_raytrace_out\\out\\libs\\yocto_gui\\ext\\imgui\\imgui_tables.cpp\"",
+  "file": "C:/Users/Edoar/Desktop/Università/Terzo Anno/Primo Semestre/Computer Graphics/02_raytrace_out/out/libs/yocto_gui/ext/imgui/imgui_tables.cpp"
+},
+{
+  "directory": "C:/Users/Edoar/Desktop/Università/Terzo Anno/Primo Semestre/Computer Graphics/02_raytrace_out/out/build/release",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DYOCTO_OPENGL -I..\\..\\libs\\yocto_gui\\. -I..\\..\\libs\\yocto_gui\\.\\ext -I..\\..\\libs -I..\\..\\exts\\glfw\\include /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /Zi /O2 /Ob1 /DNDEBUG /D_CRT_SECURE_NO_WARNINGS /wd4018 /wd4244 /wd4305 /wd4800 /wd4267 /EHsc -std:c++17 /Folibs\\yocto_gui\\CMakeFiles\\yocto_gui.dir\\ext\\imgui\\imgui_impl_glfw.cpp.obj /FdTARGET_COMPILE_PDB /FS -c \"C:\\Users\\Edoar\\Desktop\\Università\\Terzo Anno\\Primo Semestre\\Computer Graphics\\02_raytrace_out\\out\\libs\\yocto_gui\\ext\\imgui\\imgui_impl_glfw.cpp\"",
+  "file": "C:/Users/Edoar/Desktop/Università/Terzo Anno/Primo Semestre/Computer Graphics/02_raytrace_out/out/libs/yocto_gui/ext/imgui/imgui_impl_glfw.cpp"
+},
+{
+  "directory": "C:/Users/Edoar/Desktop/Università/Terzo Anno/Primo Semestre/Computer Graphics/02_raytrace_out/out/build/release",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DYOCTO_OPENGL -I..\\..\\libs\\yocto_gui\\. -I..\\..\\libs\\yocto_gui\\.\\ext -I..\\..\\libs -I..\\..\\exts\\glfw\\include /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /Zi /O2 /Ob1 /DNDEBUG /D_CRT_SECURE_NO_WARNINGS /wd4018 /wd4244 /wd4305 /wd4800 /wd4267 /EHsc -std:c++17 /Folibs\\yocto_gui\\CMakeFiles\\yocto_gui.dir\\ext\\imgui\\imgui_impl_opengl3.cpp.obj /FdTARGET_COMPILE_PDB /FS -c \"C:\\Users\\Edoar\\Desktop\\Università\\Terzo Anno\\Primo Semestre\\Computer Graphics\\02_raytrace_out\\out\\libs\\yocto_gui\\ext\\imgui\\imgui_impl_opengl3.cpp\"",
+  "file": "C:/Users/Edoar/Desktop/Università/Terzo Anno/Primo Semestre/Computer Graphics/02_raytrace_out/out/libs/yocto_gui/ext/imgui/imgui_impl_opengl3.cpp"
+},
+{
+  "directory": "C:/Users/Edoar/Desktop/Università/Terzo Anno/Primo Semestre/Computer Graphics/02_raytrace_out/out/build/release",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\cl.exe  /nologo -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DYOCTO_OPENGL -I..\\..\\libs\\yocto_gui\\. -I..\\..\\libs\\yocto_gui\\.\\ext -I..\\..\\libs -I..\\..\\exts\\glfw\\include /DWIN32 /D_WINDOWS /W3 /MD /Zi /O2 /Ob1 /DNDEBUG /D_CRT_SECURE_NO_WARNINGS /wd4018 /wd4244 /wd4305 /wd4800 /wd4267 /EHsc /Folibs\\yocto_gui\\CMakeFiles\\yocto_gui.dir\\ext\\glad\\glad.c.obj /FdTARGET_COMPILE_PDB /FS -c \"C:\\Users\\Edoar\\Desktop\\Università\\Terzo Anno\\Primo Semestre\\Computer Graphics\\02_raytrace_out\\out\\libs\\yocto_gui\\ext\\glad\\glad.c\"",
+  "file": "C:/Users/Edoar/Desktop/Università/Terzo Anno/Primo Semestre/Computer Graphics/02_raytrace_out/out/libs/yocto_gui/ext/glad/glad.c"
+},
+{
+  "directory": "C:/Users/Edoar/Desktop/Università/Terzo Anno/Primo Semestre/Computer Graphics/02_raytrace_out/out/build/release",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DYOCTO_OPENGL -I..\\..\\libs -I..\\..\\exts\\glfw\\include /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /Zi /O2 /Ob1 /DNDEBUG /D_CRT_SECURE_NO_WARNINGS /EHsc /wd4018 /wd4244 /wd4305 /wd4800 /wd4267 -std:c++17 /Foapps\\yraytrace\\CMakeFiles\\yraytrace.dir\\yraytrace.cpp.obj /FdTARGET_COMPILE_PDB /FS -c \"C:\\Users\\Edoar\\Desktop\\Università\\Terzo Anno\\Primo Semestre\\Computer Graphics\\02_raytrace_out\\out\\apps\\yraytrace\\yraytrace.cpp\"",
+  "file": "C:/Users/Edoar/Desktop/Università/Terzo Anno/Primo Semestre/Computer Graphics/02_raytrace_out/out/apps/yraytrace/yraytrace.cpp"
+}
+]
