@@ -15,7 +15,7 @@ pipeline {
 
     stage('QUALYS_PROVA') {
       steps {
-        qualysVulnerabilityAnalyzer apiServer: 'https://qualysapi.qg2.app.qualys.eu', credsId: 'fb69c8f2-4083-4399-8626-04202421d02b', hostIp: '10.232.66.59', network: 'UNAUTHORIZED_ACCESS', optionProfile: '', platform: 'EU_PLATFORM_2', pollingInterval: '2', scanName: '[job_name]_jenkins_build_[build_number]', scannerName: '', useHost: true, vulnsTimeout: '60*2'
+        getImageVulnsFromQualys dockerUrl: '/var/run/docker.sock:/var/run/docker.sock:ro', imageIds: '2094c64747cc, eb03a60b3dba', useGlobalConfig: true
       }
     }
     
