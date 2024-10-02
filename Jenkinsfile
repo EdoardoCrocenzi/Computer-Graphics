@@ -8,13 +8,15 @@ pipeline {
   stages {
     stage('Qualcosa') {
       steps {
-        sh 'echo "Sto facendo qualcosa"'
+        echo "Facendo Qualcosa"
+        sh ''' echo "Sto facendo qualcosa" '''
       }
     }
 
     stage('Qualcos\'altro') {
       steps {
-        sh 'echo "Sto facendo qualcos\'altro"'
+        echo "Facendo Qualcos\'altro"
+        sh '''echo "Sto facendo qualcos\'altro"'''
       }
     }
 
